@@ -9,3 +9,6 @@
 
 ## Ипользуемые библиотеки 
 pandas, numpy, seaborn, matplotlib, sklearn, catboost, nltk
+
+## Cтатуса проекта 
+Закончен
