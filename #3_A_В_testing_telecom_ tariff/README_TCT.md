@@ -13,3 +13,6 @@
 
 ## Ипользуемые библиотеки
 pandas, matplotlib, numpy, math, seaborn, scipy
+
+## Cтатуса проекта 
+Закончен
