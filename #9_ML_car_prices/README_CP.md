@@ -24,3 +24,6 @@
 
 ## Ипользуемые библиотеки 
 pandas, numpy, seaborn, matplotlib, sklearn, lightgbm
+
+## Cтатуса проекта 
+Закончен
