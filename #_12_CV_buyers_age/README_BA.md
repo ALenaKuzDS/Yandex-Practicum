@@ -8,3 +8,6 @@
 
 ## Ипользуемые библиотеки 
 pandas, numpy, tensorflow, matplotlib, seaborn
+
+## Cтатуса проекта 
+Закончен
