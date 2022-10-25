@@ -60,3 +60,8 @@
 * Ипользуемые библиотеки pandas, numpy, tensorflow, matplotlib, seaborn
 <br/><https://github.com/ALenaKuzDS/Yandex-Practicum/blob/main/%23_12_CV_buyers_age/CV_buyers_age_12_project.ipynb>
 
+### №12 Финальный проект. Телеком.
+* Задача: построить модель, которая по определит склонен ли человек уйти от оператора связи.
+* Ипользуемые библиотеки pandas, numpy, matplotlib, seaborn, sklearn, catboost, phik 
+<br/><https://github.com/ALenaKuzDS/Yandex-Practicum/blob/main/Final_project/final_project.ipynb>
+
