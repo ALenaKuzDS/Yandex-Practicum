@@ -63,5 +63,5 @@
 ### №12 Финальный проект. Телеком.
 * Задача: построить модель, которая по определит склонен ли человек уйти от оператора связи.
 * Ипользуемые библиотеки pandas, numpy, matplotlib, seaborn, sklearn, catboost, phik 
-<br/><https://github.com/ALenaKuzDS/Yandex-Practicum/blob/main/Final_project/final_project.ipynb>
+<br/><https://github.com/ALenaKuzDS/Yandex-Practicum/blob/main/Final_project/final_project.ipynb.ipynb>
 
